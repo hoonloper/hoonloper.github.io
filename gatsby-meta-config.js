@@ -33,11 +33,11 @@ module.exports = {
         date: '',
         activity: '',
         links: {
-          github: '',
+          github: 'https://github.com/hoonloper',
           post: '',
           googlePlay: '',
           appStore: '',
-          demo: '',
+          demo: 'https://hoonloper.github.io',
         },
       },
       // ========================================================
