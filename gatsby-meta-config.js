@@ -2,7 +2,7 @@ module.exports = {
   title: `hoonloper.com`,
   description: `Hoonloper의 발자취 기록`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
-  siteUrl: `https://www.hoonloper.com`,
+  siteUrl: `https://hoonloper.com`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
