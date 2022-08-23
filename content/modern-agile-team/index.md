@@ -4,7 +4,7 @@ title: SW 개발 동아리 Modern-Agile TEAM
 date: '2022-08-23 21:12:53'
 author: hoonloper
 tags: blog modern-agile-team 회장
-categories: 블로그
+categories: 경험
 ---
 
 안녕하세요 👋🏻
