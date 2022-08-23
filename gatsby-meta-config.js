@@ -33,22 +33,67 @@ module.exports = {
         date: '',
         activity: '',
         links: {
-          github: 'https://github.com/hoonloper',
+          github: '',
           post: '',
           googlePlay: '',
           appStore: '',
-          demo: 'https://hoonloper.github.io',
+          // demo: '',
         },
       },
       // ========================================================
       // ========================================================
       {
-        date: '2021.02 ~',
-        activity: '개인 블로그 개발 및 운영',
+        date: '2022.07 ~',
+        activity: '(주)ACG Back-End 개발자',
+        links: {
+          github: 'https://github.com/hoonloper',
+          post: '',
+          // demo: 'https://hoonloper.github.io',
+        },
+      },
+      {
+        date: '2021.12 ~ 2022.09',
+        activity: 'SW 개발 동아리 Modern-Agile Team 3기 회장',
+        links: {
+          post: '/modern-agile-team',
+          github: 'https://github.com/modern-agile-team',
+          // demo: '',
+        },
+      },
+      {
+        date: '2020.12 ~ 2022.02',
+        activity: '인덕대학교 36대 대의원회 의장',
+        links: {
+          post: '/gatsby-starter-zoomkoding-introduction',
+          github: '',
+          // demo: '',
+        },
+      },
+      {
+        date: '2017.03 ~ 2022.02',
+        activity: '인덕대학교 정보통신공학과 학생회',
         links: {
           post: '/gatsby-starter-zoomkoding-introduction',
           github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
           demo: 'https://www.zoomkoding.com',
+        },
+      },
+      {
+        date: '2019.09 ~ 2020.03',
+        activity: '육군 제 53사단 전문하사 임관 및 전역',
+        links: {
+          post: '/gatsby-starter-zoomkoding-introduction',
+          github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
+          demo: '',
+        },
+      },
+      {
+        date: '2018.01 ~ 2019.09',
+        activity: '육군 제 53사단 병장 만기 전역',
+        links: {
+          post: '/gatsby-starter-zoomkoding-introduction',
+          github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
+          demo: '',
         },
       },
     ],
@@ -72,15 +117,15 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        title: '개발 블로그 테마 개발',
+        title: 'Mohae(모두의 해결사) - 재능 나눔 플랫폼',
         description:
-          '개발 블로그를 운영하는 기간이 조금씩 늘어나고 점점 많은 생각과 경험이 블로그에 쌓아가면서 제 이야기를 담고 있는 블로그를 직접 만들어보고 싶게 되었습니다. 그동안 여러 개발 블로그를 보면서 좋았던 부분과 불편했던 부분들을 바탕으로 레퍼런스를 참고하여 직접 블로그 테마를 만들게 되었습니다.',
-        techStack: ['gatsby', 'react'],
-        thumbnailUrl: 'blog.png',
+          "SW 개발에 '개'자도 모르는 학생들이 열정으로 모여 피워낸 재능 나눔 플랫폼입니다. 개발에 입문해 많은 도약을 이룰 수 있게 밑바탕이 되어준 소중한 프로젝트입니다 :)",
+        techStack: ['Node', 'Nest', 'TypeORM', 'MariaDB'],
+        thumbnailUrl: 'mohae.png',
         links: {
-          post: '/gatsby-starter-zoomkoding-introduction',
-          github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
-          demo: 'https://www.zoomkoding.com',
+          post: '',
+          github: 'https://github.com/modern-agile-team/mohae-back',
+          demo: '',
         },
       },
     ],
