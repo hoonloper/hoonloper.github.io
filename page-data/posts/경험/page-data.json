@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-category-template-js",
+    "path": "/posts/경험",
+    "result": {"pageContext":{"currentCategory":"경험","categories":["All","프로젝트","경험","블로그"],"edges":[{"node":{"id":"125fda4a-7ea1-5435-aa34-48a37a3d22e6","excerpt":"안녕하세요 👋🏻 이번 포스트는 제가 개발을 처음 입문해 Back-End 개발자로 성장하기까지 도움을 준 모던 애자일 팀에 대해 소개하려고 합니다!","fields":{"slug":"/modern-agile-team/"},"frontmatter":{"categories":"경험","title":"SW 개발 동아리 Modern-Agile TEAM","date":"August 23, 2022"}},"next":{"fields":{"slug":"/student/"}},"previous":{"fields":{"slug":"/mohae/"}}},{"node":{"id":"5abeb1b0-028a-56d7-beab-555b6c7ff3cf","excerpt":"첫번째 게시글을 작성해봤습니다. 추후 업데이트 될 게시글들을 기대해 주세요!","fields":{"slug":"/student/"},"frontmatter":{"categories":"경험","title":"인덕대학교 36대 대의원회 의장","date":"August 21, 2022"}},"next":{"fields":{"slug":"/everytime/"}},"previous":{"fields":{"slug":"/modern-agile-team/"}}}]}},
+    "staticQueryHashes": ["1073350324","1956554647","2938748437"]}
