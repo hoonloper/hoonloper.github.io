@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-template-js",
-    "path": "/mohae/",
-    "result": {"data":{"cur":{"id":"80a2ed8e-af4b-5494-ab53-06e5d1b47bf2","html":"<p>Hello</p>","excerpt":"Hello","frontmatter":{"date":"August 31, 2022","title":"Mohae(모두의 해결사) - 재능 나눔 플랫폼","categories":"프로젝트","author":"hoonloper","emoji":"🌈"},"fields":{"slug":"/mohae/"}},"next":{"id":"1359b708-20b5-5a2d-9bb8-cb2d6b6db0e4","html":"<p>안녕하세요 👋🏻</p>\n<p>이번 포스트는 제가 개발을 처음 입문해 Back-End 개발자로 성장하기까지 도움을 준 모던 애자일 팀에 대해 소개하려고 합니다!</p>","frontmatter":{"date":"August 23, 2022","title":"SW 개발 동아리 Modern-Agile TEAM","categories":"경험","author":"hoonloper","emoji":"🧢"},"fields":{"slug":"/modern-agile-team/"}},"prev":null,"site":{"siteMetadata":{"siteUrl":"https://hoonloper.com","comments":{"utterances":{"repo":""}}}}},"pageContext":{"slug":"/mohae/","nextSlug":"/modern-agile-team/","prevSlug":""}},
-    "staticQueryHashes": ["1073350324","1956554647","2938748437"]}
